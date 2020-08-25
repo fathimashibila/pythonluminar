@@ -1,0 +1,9 @@
+lst=[1,2,3]
+a=lst[0],lst[1]
+b=lst[0],lst[2]
+c=lst[1],lst[2]
+lstt=[]
+lstt.append(a)
+lstt.append(b)
+lstt.append(c)
+print(lstt)

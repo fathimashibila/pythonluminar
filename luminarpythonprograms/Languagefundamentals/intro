@@ -1,0 +1,193 @@
+Python ->dynamically typed pl
+
+Applications of python->webapplication,MachineLearning,Datascience etc
+
+Python3
+
+Backward Compactibility issue Python3
+
+
+Django?Framework?
+
+Library->collection of modules,classes
+
+Math->math.sqrt(20)
+
+
+Identifiers
+===========
+
+name is called an identifier
+
+name="luminar Technolab"
+#name
+
+
+def printName():
+    print("Luminar")
+
+
+
+printName()function name
+
+
+
+class PersonData:
+    pass
+
+Perosn=>class name
+
+rules stds
+
+Input&Output Function
+===================
+cout printf sop console.log  =>print "hvhhvh" o/p
+
+
+cin scanf Scanner prompt=>input()
+
+
+
+Opertor
+========
+A.O(+,-,*,/,**,%,//)
+9/2=4.5
+9//2=4
+
+
+RelationaOp(<,>,<=,>=,==)
+
+LogicalOperator(AND,OR,XOR,&,|,^)
+
+incrmnt decrmt(++,--) not supported in python
+
+
+compoundassignment
+===================
+
+
+num=10
+num+=1 #num=num+1
+
+
+datatypes
+===========
+byte ->short-> int-> long-> float-> double-> char->str   boolean
+
+str
+int
+float
+boolean=0,1 True False
+
+
+FlowControls
+============
+    print("u can vote")
+    print("u cant vote")
+
+    print("hello")
+    1)DecisionMaking(if,if...else,if....elif....else)
+    2)Looping(while,for)
+    3)jumping(break,continue,pass)
+
+functions
+=========
+
+    to perform a particular task
+    print()
+    input()
+    num=10
+    def add(no1,no2):
+        return no1+no2
+
+    add(10,20)
+
+    f=lambda no1,no2:no1+no2
+
+
+Python Collections
+===================
+"Array"=>collection of homogenious data refernce by using common name
+
+list
+tuple
+set
+dictionary
+
+File I/O
+=========
+to store the data
+file operations
+
+Read r
+Write w
+Append a
+===============python core================================================================
+
+Advanced Python
+==============
+
+
+OOP
+======
+
+1)class =>base model,blue print,plan,design laptop,tv
+2)object=>realworld entity acerlaptop,hpnote5,lenovo,mitv
+3)reference=>remote
+
+inheritance
+polymorphism(method overloading,method overriding,operator overloading)
+
+
+ExceptionHandling
+================
+
+no1=10
+no2=0
+res=no1/no2
+print(res)
+
+
+regularExpression
+================
+pattern matching re
+
+
+FunctionalProgramming
+======================
+    lambda functions
+    map()
+    filter()
+    reduce()
+    list comprehension
+
+
+Mysql
+=====
+sql queriesCRUD
+
+
+
+
+Python to Database Connection
+=================================
+
+Git and Github(vcs)version Controll system
+===========================================
+
+frontend
+========
+html
+css
+bootstrap
+javascript
+ajax,jquery
+
+
+
+backend
+=======
+python(Django)
+Mysql,sqllite
+
+
