@@ -1,0 +1,17 @@
+div{
+    background-color:red;
+    }
+#first{
+    color:red;
+    background-color:blue;
+    border-style:solid;
+    border-color:yellow;
+    border-width:12px;
+    }
+
+.two {
+    background-color:green;
+    border-color:blue;
+    border-style:dotted; #dashed
+
+    }

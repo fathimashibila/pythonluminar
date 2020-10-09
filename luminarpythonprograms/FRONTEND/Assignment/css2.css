@@ -1,0 +1,12 @@
+.first{
+color:blue;
+
+}
+.second{
+color:red;
+}
+#two{
+border-style:dashed;
+border-color:blue;
+border-width:2px;
+}
